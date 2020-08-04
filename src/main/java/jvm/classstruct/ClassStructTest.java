@@ -7,11 +7,19 @@ package jvm.classstruct;
  */
 public class ClassStructTest {
     private volatile int m;
-    public int inc(){
+    public int inc(int s,double c){
         return m+1;
     }
-
+    public int inc(int s,double c,String st){
+        return m+1;
+    }
     public static void main(String[] args) {
 
+    }
+    public void testRange(){
+        {
+            int b=1;
+        }
+       // b=3;
     }
 }

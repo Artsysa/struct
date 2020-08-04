@@ -1,5 +1,8 @@
 package leetcode;
 
+import java.util.ArrayList;
+import java.util.List;
+
 /*
  * @breif:
  * @Author: lyq
@@ -13,6 +16,7 @@ public class 礼物的最大价值 {
                 {1,5,1},
                 {4,2,1}
         }));
+      singleNumbers(new int[]{4,1,4,6});
     }
 
     public static int maxValue1(int[][] grid) {
@@ -41,5 +45,17 @@ public class 礼物的最大价值 {
             }
         }
         return dp[grid.length-1][grid[0].length-1];
+    }
+    public static int[] singleNumbers(int[] nums) {
+        List<Integer> list = new ArrayList<>();
+        for (int i = 0; i < nums.length; i++) {
+            boolean contains = list.contains(nums[i]);
+            if(contains){
+                list.remove(Integer.valueOf(nums[i]));
+            }else{
+                list.add(nums[i]);
+            }
+        }
+        return list.stream().mapToInt(e->e).toArray();
     }
 }
