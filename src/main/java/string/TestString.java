@@ -35,7 +35,10 @@ class AAA{
         AAA aaa = new AAA();
         aaa.test(aaa.str);
         System.out.println(aaa.str);
-    }
+        String bb = "aaaaa"+ "aa";
+        String cc = "aaaaa"+ "aa";
+        System.out.println(bb == cc );
+        }
 
     public void test(String str){
         str="gggg";

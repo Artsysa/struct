@@ -16,6 +16,10 @@ public class ArrayQueue {
         tail=0;
     }
 
+    public ArrayQueue() {
+
+    }
+
     public void print(){
         for (int number:queue
              ) {
