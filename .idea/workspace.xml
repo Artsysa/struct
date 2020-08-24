@@ -1,0 +1,1606 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f338659f-d1d4-4d92-94f0-ef80211cb681" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/tools.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/struct.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bitOperation/BitMapCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/finall/AtlerFinal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/做菜顺序.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/找出数组中唯一不重复的元素.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bitOperation/Shift.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bitOperation/Shift.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/struct$Sort.ic" NAME="Sort Coverage Results" MODIFIED="1584861401177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>order.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>charA</find>
+      <find>RBNode</find>
+      <find>afterNodeRemoval</find>
+      <find>TreeBin</find>
+      <find>AtomicInteger</find>
+      <find>433</find>
+      <find>length</find>
+      <find>runWorker</find>
+      <find>run()</find>
+      <find>Work</find>
+      <find>execute</find>
+      <find>termination</find>
+      <find>awaitTermination</find>
+    </findStrings>
+    <dirStrings>
+      <dir>E:\IDEA\struct\src\main\java</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="https://github.com/Artsysa/struct.git" />
+      </list>
+    </option>
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Project\mavenrepository" />
+        <option name="mavenHome" value="D:\Project\maven\apache-maven-3.0.5" />
+        <option name="userSettingsFile" value="D:\Project\maven\apache-maven-3.0.5\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="441" />
+    <option name="y" value="198" />
+    <option name="width" value="912" />
+    <option name="height" value="1041" />
+  </component>
+  <component name="ProjectId" id="1gWRFGV5RXb7p3UryyUpTfNUVU2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576141765860" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../sourcelocation" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\IDEA\struct\target\classes\jvm\proxy" />
+      <recent name="E:\IDEA\struct\src\main\java\nio\tcp" />
+      <recent name="E:\IDEA\struct\src\main\java\concurrentHashmap" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IDEA\struct\target\classes\jvm\proxy" />
+      <recent name="E:\IDEA\struct" />
+      <recent name="E:\IDEA\struct\src\main\java\nio\tcp" />
+    </key>
+  </component>
+  <component name="RestServicesNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="RunManager" selected="Application.Queue">
+    <configuration name="找出数组中唯一不重复的元素" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.找出数组中唯一不重复的元素" />
+      <module name="struct" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AtlerFinal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="finall.AtlerFinal" />
+      <module name="struct" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="finall.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BitMapCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bitOperation.BitMapCount" />
+      <module name="struct" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bitOperation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Queue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.Queue.Queue" />
+      <module name="struct" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array.Queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Shift" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bitOperation.Shift" />
+      <module name="struct" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bitOperation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="买股票" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.买股票" />
+      <module name="struct" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="无重复字符串的排列组合" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.无重复字符串的排列组合" />
+      <module name="struct" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="做菜顺序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.做菜顺序" />
+      <module name="struct" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="一次编辑" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.一次编辑" />
+      <module name="struct" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="三步问题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dp.三步问题" />
+      <module name="struct" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="分割回文串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.分割回文串" />
+      <module name="struct" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="数组中出现次数超过一半的数字" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.数组中出现次数超过一半的数字" />
+      <module name="struct" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="最长上升子序列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dp.最长上升子序列" />
+      <module name="struct" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="三数之和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.三数之和" />
+      <module name="struct" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="跳跃游戏" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.跳跃游戏" />
+      <module name="struct" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="滑动窗口的最大值" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.滑动窗口的最大值" />
+      <module name="struct" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="平衡二叉树" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.平衡二叉树" />
+      <module name="struct" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="打家劫舍" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.打家劫舍" />
+      <module name="struct" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="分割回文串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.分割回文串" />
+      <module name="struct" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="字符串的排列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.字符串的排列" />
+      <module name="struct" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="一次编辑" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.一次编辑" />
+      <module name="struct" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="最长子序列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dp.最长子序列" />
+      <module name="struct" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="路径总和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.路径总和" />
+      <module name="struct" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="组合总和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.组合总和" />
+      <module name="struct" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="编辑距离" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.编辑距离" />
+      <module name="struct" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="最长公共子序列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dp.最长公共子序列" />
+      <module name="struct" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="最长上升子序列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dp.最长上升子序列" />
+      <module name="struct" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="礼物的最大价值" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.礼物的最大价值" />
+      <module name="struct" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="接雨水" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.接雨水" />
+      <module name="struct" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="接雨水" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.接雨水" />
+      <module name="struct" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="求和路径" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.求和路径" />
+      <module name="struct" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="翻转单词" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.翻转单词" />
+      <module name="struct" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="有效的字母异位词" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.有效的字母异位词" />
+      <module name="struct" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="两整数之和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.两整数之和" />
+      <module name="struct" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="翻转单词" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.翻转单词" />
+      <module name="struct" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="删除排序数组中的重复项" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.删除排序数组中的重复项" />
+      <module name="struct" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="最长子序列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dp.最长子序列" />
+      <module name="struct" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="爬楼梯" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dp.爬楼梯" />
+      <module name="struct" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="滑动窗口的最大值" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.滑动窗口的最大值" />
+      <module name="struct" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Shift" />
+      <item itemvalue="Application.找出数组中唯一不重复的元素" />
+      <item itemvalue="Application.BitMapCount" />
+      <item itemvalue="Application.AtlerFinal" />
+      <item itemvalue="Application.Queue" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Queue" />
+        <item itemvalue="Application.AtlerFinal" />
+        <item itemvalue="Application.BitMapCount" />
+        <item itemvalue="Application.Shift" />
+        <item itemvalue="Application.找出数组中唯一不重复的元素" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\MECHREV\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f338659f-d1d4-4d92-94f0-ef80211cb681" name="Default Changelist" comment="" />
+      <created>1570412677133</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570412677133</updated>
+      <workItem from="1570412680144" duration="4107000" />
+      <workItem from="1570432378979" duration="424000" />
+      <workItem from="1570438168880" duration="14000" />
+      <workItem from="1570511745800" duration="608000" />
+      <workItem from="1570538325368" duration="2472000" />
+      <workItem from="1570547583953" duration="537000" />
+      <workItem from="1570579303737" duration="10000" />
+      <workItem from="1570579733162" duration="610000" />
+      <workItem from="1571147371683" duration="5027000" />
+      <workItem from="1571189026211" duration="387000" />
+      <workItem from="1571219023763" duration="5472000" />
+      <workItem from="1571225674024" duration="5950000" />
+      <workItem from="1571263571519" duration="2447000" />
+      <workItem from="1571294533284" duration="1790000" />
+      <workItem from="1571319655212" duration="1505000" />
+      <workItem from="1571369621542" duration="730000" />
+      <workItem from="1571492072589" duration="9394000" />
+      <workItem from="1571532465585" duration="36000" />
+      <workItem from="1571548741832" duration="11696000" />
+      <workItem from="1571615172152" duration="609000" />
+      <workItem from="1571662603687" duration="58000" />
+      <workItem from="1572075357135" duration="1964000" />
+      <workItem from="1572077996740" duration="90000" />
+      <workItem from="1572155158085" duration="644000" />
+      <workItem from="1576140225284" duration="1540000" />
+      <workItem from="1576141786548" duration="144000" />
+      <workItem from="1576141952083" duration="72000" />
+      <workItem from="1576587459736" duration="824000" />
+      <workItem from="1579439324287" duration="871000" />
+      <workItem from="1582036596263" duration="599000" />
+      <workItem from="1582077753631" duration="17000" />
+      <workItem from="1584410072036" duration="18141000" />
+      <workItem from="1584496664726" duration="12782000" />
+      <workItem from="1584543904110" duration="54000" />
+      <workItem from="1584584214490" duration="14927000" />
+      <workItem from="1584666762299" duration="1404000" />
+      <workItem from="1584757226137" duration="4009000" />
+      <workItem from="1584776218611" duration="49000" />
+      <workItem from="1584844100905" duration="1875000" />
+      <workItem from="1584872748220" duration="15000" />
+      <workItem from="1584973744321" duration="1156000" />
+      <workItem from="1585013362341" duration="5548000" />
+      <workItem from="1585041522586" duration="2213000" />
+      <workItem from="1585058648889" duration="288000" />
+      <workItem from="1585099777432" duration="33000" />
+      <workItem from="1585100339069" duration="3502000" />
+      <workItem from="1585146106379" duration="629000" />
+      <workItem from="1585185044460" duration="4987000" />
+      <workItem from="1585557454974" duration="8614000" />
+      <workItem from="1585625994085" duration="13406000" />
+      <workItem from="1585707127364" duration="599000" />
+      <workItem from="1585714278225" duration="1921000" />
+      <workItem from="1585875546004" duration="610000" />
+      <workItem from="1586228129053" duration="3303000" />
+      <workItem from="1586305275959" duration="5320000" />
+      <workItem from="1586427163452" duration="635000" />
+      <workItem from="1586477788553" duration="8012000" />
+      <workItem from="1586521730066" duration="599000" />
+      <workItem from="1586567625074" duration="4238000" />
+      <workItem from="1586613136598" duration="160000" />
+      <workItem from="1586654024600" duration="1876000" />
+      <workItem from="1586743301162" duration="1205000" />
+      <workItem from="1586957433375" duration="12000" />
+      <workItem from="1587004306879" duration="760000" />
+      <workItem from="1587040079555" duration="1093000" />
+      <workItem from="1587085840560" duration="71000" />
+      <workItem from="1587278600664" duration="138000" />
+      <workItem from="1587278766301" duration="1863000" />
+      <workItem from="1587348282396" duration="1865000" />
+      <workItem from="1587520643079" duration="3864000" />
+      <workItem from="1587703088332" duration="5594000" />
+      <workItem from="1587778452110" duration="19737000" />
+      <workItem from="1587822248380" duration="728000" />
+      <workItem from="1587858643357" duration="15495000" />
+      <workItem from="1587900139555" duration="3677000" />
+      <workItem from="1587950724323" duration="10727000" />
+      <workItem from="1588037200861" duration="11870000" />
+      <workItem from="1588123330845" duration="9512000" />
+      <workItem from="1588207495250" duration="4955000" />
+      <workItem from="1588296362450" duration="3174000" />
+      <workItem from="1588382323528" duration="7989000" />
+      <workItem from="1588399817585" duration="10168000" />
+      <workItem from="1588427874739" duration="697000" />
+      <workItem from="1588432129004" duration="599000" />
+      <workItem from="1588465908673" duration="14245000" />
+      <workItem from="1588500077052" duration="1843000" />
+      <workItem from="1588552131846" duration="4601000" />
+      <workItem from="1588603682059" duration="1153000" />
+      <workItem from="1588642599352" duration="9464000" />
+      <workItem from="1588722602977" duration="10840000" />
+      <workItem from="1588767540464" duration="98000" />
+      <workItem from="1588775104170" duration="584000" />
+      <workItem from="1588902177876" duration="1329000" />
+      <workItem from="1588920014072" duration="1368000" />
+      <workItem from="1588987142750" duration="4063000" />
+      <workItem from="1589011932433" duration="10330000" />
+      <workItem from="1589072711527" duration="2696000" />
+      <workItem from="1589158703478" duration="5521000" />
+      <workItem from="1589192258174" duration="951000" />
+      <workItem from="1589196042890" duration="14000" />
+      <workItem from="1589196192874" duration="2343000" />
+      <workItem from="1589202709939" duration="385000" />
+      <workItem from="1589241339209" duration="1282000" />
+      <workItem from="1589264371693" duration="1199000" />
+      <workItem from="1589288136885" duration="599000" />
+      <workItem from="1589295073752" duration="890000" />
+      <workItem from="1589330653803" duration="7859000" />
+      <workItem from="1589339754732" duration="2155000" />
+      <workItem from="1589342202000" duration="1369000" />
+      <workItem from="1589350410040" duration="10524000" />
+      <workItem from="1589422608574" duration="2902000" />
+      <workItem from="1589499598512" duration="981000" />
+      <workItem from="1589513834063" duration="605000" />
+      <workItem from="1589591738462" duration="6500000" />
+      <workItem from="1589617523034" duration="729000" />
+      <workItem from="1589700263310" duration="5756000" />
+      <workItem from="1589722690961" duration="189000" />
+      <workItem from="1589767443956" duration="5586000" />
+      <workItem from="1590110016904" duration="13246000" />
+      <workItem from="1590145867845" duration="6575000" />
+      <workItem from="1590196959981" duration="1364000" />
+      <workItem from="1590199887785" duration="9871000" />
+      <workItem from="1590283897797" duration="5818000" />
+      <workItem from="1590367516661" duration="549000" />
+      <workItem from="1590390395516" duration="8673000" />
+      <workItem from="1590474246708" duration="4179000" />
+      <workItem from="1590541082609" duration="2489000" />
+      <workItem from="1590589219630" duration="648000" />
+      <workItem from="1590628352480" duration="5646000" />
+      <workItem from="1590654738972" duration="2843000" />
+      <workItem from="1590661005521" duration="2332000" />
+      <workItem from="1590708617593" duration="9028000" />
+      <workItem from="1590728462926" duration="604000" />
+      <workItem from="1591159781137" duration="610000" />
+      <workItem from="1591169908094" duration="7378000" />
+      <workItem from="1591195595697" duration="2649000" />
+      <workItem from="1591230691951" duration="2918000" />
+      <workItem from="1591245629299" duration="14706000" />
+      <workItem from="1591285063807" duration="1295000" />
+      <workItem from="1591317782939" duration="7280000" />
+      <workItem from="1591364049188" duration="2742000" />
+      <workItem from="1591405471172" duration="19187000" />
+      <workItem from="1591445577997" duration="108000" />
+      <workItem from="1591445713762" duration="71000" />
+      <workItem from="1591450230525" duration="5271000" />
+      <workItem from="1591483932241" duration="8327000" />
+      <workItem from="1591496829956" duration="17365000" />
+      <workItem from="1591541699172" duration="1783000" />
+      <workItem from="1591580549665" duration="1149000" />
+      <workItem from="1591599378297" duration="8758000" />
+      <workItem from="1591663285811" duration="2821000" />
+      <workItem from="1591689887891" duration="15045000" />
+      <workItem from="1591745427928" duration="3788000" />
+      <workItem from="1591782127103" duration="764000" />
+      <workItem from="1591798273438" duration="697000" />
+      <workItem from="1591837884279" duration="5474000" />
+      <workItem from="1591866197485" duration="5036000" />
+      <workItem from="1591883878843" duration="239000" />
+      <workItem from="1591924505029" duration="1935000" />
+      <workItem from="1591940442884" duration="3000" />
+      <workItem from="1592006991664" duration="14000" />
+      <workItem from="1592264927031" duration="1166000" />
+      <workItem from="1592272789574" duration="302000" />
+      <workItem from="1592278357286" duration="73000" />
+      <workItem from="1592366036977" duration="607000" />
+      <workItem from="1592385980380" duration="9228000" />
+      <workItem from="1592440569431" duration="531000" />
+      <workItem from="1592474030033" duration="5656000" />
+      <workItem from="1592480513216" duration="5951000" />
+      <workItem from="1592564601273" duration="537000" />
+      <workItem from="1592567241135" duration="8098000" />
+      <workItem from="1592617245447" duration="604000" />
+      <workItem from="1592955909640" duration="596000" />
+      <workItem from="1592982168240" duration="27000" />
+      <workItem from="1593307484684" duration="1295000" />
+      <workItem from="1593675185827" duration="30000" />
+      <workItem from="1593701807169" duration="1265000" />
+      <workItem from="1594031712736" duration="1782000" />
+      <workItem from="1594081607446" duration="1538000" />
+      <workItem from="1594130567174" duration="2651000" />
+      <workItem from="1594173188146" duration="4156000" />
+      <workItem from="1594204222808" duration="1686000" />
+      <workItem from="1594220059034" duration="1601000" />
+      <workItem from="1594254842833" duration="7770000" />
+      <workItem from="1594348557800" duration="5883000" />
+      <workItem from="1594361653486" duration="15000" />
+      <workItem from="1594615874842" duration="1125000" />
+      <workItem from="1594649101618" duration="1198000" />
+      <workItem from="1594690771005" duration="332000" />
+      <workItem from="1594715845986" duration="1101000" />
+      <workItem from="1594716962177" duration="2616000" />
+      <workItem from="1594729131475" duration="3156000" />
+      <workItem from="1594773962981" duration="19610000" />
+      <workItem from="1594805576603" duration="16000" />
+      <workItem from="1594860339651" duration="6823000" />
+      <workItem from="1594893004949" duration="392000" />
+      <workItem from="1594905776268" duration="666000" />
+      <workItem from="1594950081241" duration="8116000" />
+      <workItem from="1594971715156" duration="1064000" />
+      <workItem from="1595069970368" duration="157000" />
+      <workItem from="1595073829319" duration="1605000" />
+      <workItem from="1595207062382" duration="68000" />
+      <workItem from="1595209649637" duration="18688000" />
+      <workItem from="1595237439133" duration="485000" />
+      <workItem from="1595253459762" duration="608000" />
+      <workItem from="1595292313755" duration="19000" />
+      <workItem from="1595303014451" duration="1218000" />
+      <workItem from="1595309858663" duration="11000" />
+      <workItem from="1595314217376" duration="1871000" />
+      <workItem from="1595321583731" duration="822000" />
+      <workItem from="1595332303177" duration="104000" />
+      <workItem from="1595378179079" duration="13445000" />
+      <workItem from="1595420724297" duration="1205000" />
+      <workItem from="1595424329186" duration="1672000" />
+      <workItem from="1595428311511" duration="31000" />
+      <workItem from="1595428388994" duration="54000" />
+      <workItem from="1595464846575" duration="2236000" />
+      <workItem from="1595471176189" duration="1809000" />
+      <workItem from="1595557058467" duration="1075000" />
+      <workItem from="1595561625857" duration="7026000" />
+      <workItem from="1595652192079" duration="575000" />
+      <workItem from="1595660031657" duration="687000" />
+      <workItem from="1595810868328" duration="5452000" />
+      <workItem from="1595821189073" duration="9459000" />
+      <workItem from="1595854955152" duration="598000" />
+      <workItem from="1595896796153" duration="23500000" />
+      <workItem from="1595943479418" duration="2304000" />
+      <workItem from="1595982881805" duration="15492000" />
+      <workItem from="1596013625719" duration="1236000" />
+      <workItem from="1596085152960" duration="1517000" />
+      <workItem from="1596086758124" duration="8119000" />
+      <workItem from="1596155083630" duration="4113000" />
+      <workItem from="1596161307218" duration="2457000" />
+      <workItem from="1596180837962" duration="7604000" />
+      <workItem from="1596207066114" duration="591000" />
+      <workItem from="1596207783098" duration="597000" />
+      <workItem from="1596415262938" duration="10883000" />
+      <workItem from="1596448830918" duration="480000" />
+      <workItem from="1596501387059" duration="10289000" />
+      <workItem from="1596587645593" duration="4242000" />
+      <workItem from="1596674595270" duration="1307000" />
+      <workItem from="1596706127197" duration="1975000" />
+      <workItem from="1596761080625" duration="1504000" />
+      <workItem from="1596786079487" duration="677000" />
+      <workItem from="1596847501638" duration="941000" />
+      <workItem from="1596858207004" duration="694000" />
+      <workItem from="1596978788904" duration="425000" />
+      <workItem from="1597019661122" duration="1513000" />
+      <workItem from="1597021499837" duration="14000" />
+      <workItem from="1597031485497" duration="5927000" />
+      <workItem from="1597049064186" duration="1224000" />
+      <workItem from="1597063412612" duration="5343000" />
+      <workItem from="1597106774309" duration="1438000" />
+      <workItem from="1597115863455" duration="9133000" />
+      <workItem from="1597151209529" duration="590000" />
+      <workItem from="1597192441317" duration="8735000" />
+      <workItem from="1597235904086" duration="599000" />
+      <workItem from="1597279157563" duration="7600000" />
+      <workItem from="1597364827464" duration="1532000" />
+      <workItem from="1597367800301" duration="3352000" />
+      <workItem from="1597384513216" duration="13333000" />
+      <workItem from="1597406462719" duration="592000" />
+      <workItem from="1597408517131" duration="41000" />
+      <workItem from="1597499908802" duration="770000" />
+      <workItem from="1597628056242" duration="1625000" />
+      <workItem from="1597662172589" duration="921000" />
+      <workItem from="1597737605860" duration="4511000" />
+      <workItem from="1597796815515" duration="6561000" />
+      <workItem from="1597888762930" duration="3927000" />
+      <workItem from="1597919546798" duration="1932000" />
+      <workItem from="1597972739856" duration="5306000" />
+      <workItem from="1598228262762" duration="65000" />
+      <workItem from="1598228373657" duration="630000" />
+      <workItem from="1598229024707" duration="451000" />
+      <workItem from="1598229496415" duration="35000" />
+      <workItem from="1598229701737" duration="428000" />
+      <workItem from="1598230236667" duration="50000" />
+    </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1595903421714</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1595903421714</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1">
+      <created>1595903681303</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1595903681303</updated>
+    </task>
+    <task id="LOCAL-00003" summary="1">
+      <created>1595903777012</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1595903777012</updated>
+    </task>
+    <task id="LOCAL-00004" summary="1">
+      <created>1596502712888</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1596502712888</updated>
+    </task>
+    <task id="LOCAL-00005" summary="1">
+      <created>1596503077618</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1596503077618</updated>
+    </task>
+    <task id="LOCAL-00006" summary="1">
+      <created>1597127215433</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1597127215433</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="81" key="FileChooserDialogImpl" timestamp="1598230285206">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="81" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1598230285206" />
+    <state width="1237" height="207" key="GridCell.Tab.0.bottom" timestamp="1598229728474">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="207" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1598229728474" />
+    <state width="1237" height="207" key="GridCell.Tab.0.center" timestamp="1598229728474">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="207" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1598229728474" />
+    <state width="1237" height="207" key="GridCell.Tab.0.left" timestamp="1598229728474">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="207" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1598229728474" />
+    <state width="1237" height="207" key="GridCell.Tab.0.right" timestamp="1598229728474">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="207" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1598229728474" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1598230274067">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1598230274067" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Array/SparseArray/SparseArraytoArray.java</url>
+          <line>89</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/recursion/ListNode.java</url>
+          <line>174</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/Order1407.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/Order999.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/tree/AVLTree.java</url>
+          <line>345</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/tree/AVLTree.java</url>
+          <line>88</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/tree/RedBlackTree.java</url>
+          <line>213</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/order/CountSort.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/dp/找零钱.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/dp/最长上升子序列.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/dp/爬楼梯.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/dp/爬楼梯.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/dp/爬楼梯.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/dp/最长公共子序列.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/dp/最长公共子序列.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/最长重复子数组.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/编辑距离.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/最长回文子串.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/有效的字母异位词.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/分发饼干.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/删除排序数组中的重复项.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/通过翻转子数组使两个数组相等.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="139" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/求和路径.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="146" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/三数之和.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="149" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/三数之和.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="152" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/每日温度.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="156" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/买卖股票的最佳时机II.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="157" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/最长重复子数组.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="159" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/接雨水.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="163" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/接雨水.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="164" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/map/ListItTest.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="176" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/nio/channel/ReadAndWriteFileChannel.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="177" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/nio/chart/GroupClient.java</url>
+          <line>103</line>
+          <option name="timeStamp" value="182" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/nio/tcp/NettyStickAndSplit.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="193" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/string/TestString.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="205" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/string/TestString.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="206" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/滑动窗口的最大值.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="209" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/做菜顺序.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="210" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Array/Queue/ArrayQueue.java</url>
+          <line>30</line>
+          <properties class="Array.Queue.ArrayQueue" method="enter">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/LinkList/SingLink/SingLinkList.java</url>
+          <line>242</line>
+          <properties class="LinkList.SingLink.SingLinkList" method="ReservePrint">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/recursion/ListNode.java</url>
+          <line>80</line>
+          <properties class="recursion.test" method="minimumTotal">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/recursion/ListNode.java</url>
+          <line>52</line>
+          <properties class="recursion.test" method="jobScheduling">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/Order1496.java</url>
+          <line>39</line>
+          <properties class="leetcode.Order1496" method="recusion">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/Order1407.java</url>
+          <line>63</line>
+          <properties class="leetcode.test" method="isPerfectSquare">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/tree/BinarySearchTree.java</url>
+          <line>314</line>
+          <properties class="tree.BinarySearchTree" method="remove">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/tree/BinarySearchTree.java</url>
+          <line>366</line>
+          <properties class="tree.BinarySearchTree" method="search">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/recursion/Fib.java</url>
+          <line>45</line>
+          <properties class="recursion.Fib" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/Order53.java</url>
+          <line>21</line>
+          <properties class="leetcode.Order53" method="getmax">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/dp/三步问题.java</url>
+          <line>13</line>
+          <properties class="dp.三步问题" method="waysToStep">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/买股票.java</url>
+          <line>27</line>
+          <properties class="leetcode.买股票" method="maxProfit">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/翻转单词.java</url>
+          <line>17</line>
+          <properties class="leetcode.翻转单词" method="reverseWords">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/理发师.java</url>
+          <line>47</line>
+          <properties class="leetcode.理发师" method="massage">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/理发师.java</url>
+          <line>21</line>
+          <properties class="leetcode.理发师" method="missingNumber">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/回文数.java</url>
+          <line>13</line>
+          <properties class="leetcode.回文数" method="isPalindrome">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/跳跃游戏.java</url>
+          <line>27</line>
+          <properties class="leetcode.跳跃游戏" method="canJump">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/跳跃游戏.java</url>
+          <line>14</line>
+          <properties class="leetcode.跳跃游戏" method="canJump1">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/括号生成.java</url>
+          <line>17</line>
+          <properties class="leetcode.括号生成" method="generateParenthesis">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/合并两个有序数组.java</url>
+          <line>20</line>
+          <properties class="leetcode.合并两个有序数组" method="merge">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/子集.java</url>
+          <line>21</line>
+          <properties class="leetcode.子集" method="subsets">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/颜色分类.java</url>
+          <line>14</line>
+          <properties class="leetcode.颜色分类" method="sortColors">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/路径总和.java</url>
+          <line>34</line>
+          <properties class="leetcode.路径总和" method="dfs">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="131" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/删除排序数组中的重复项.java</url>
+          <line>13</line>
+          <properties class="leetcode.删除排序数组中的重复项" method="removeDuplicates">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="135" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/通过翻转子数组使两个数组相等.java</url>
+          <line>19</line>
+          <properties class="leetcode.通过翻转子数组使两个数组相等" method="canBeEqual">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="137" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/合并K个排序链表.java</url>
+          <line>24</line>
+          <properties class="leetcode.合并K个排序链表" method="mergeKLists">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="140" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/乘积最大子数组.java</url>
+          <line>14</line>
+          <properties class="leetcode.乘积最大子数组" method="maxProduct">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="141" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/乘积最大子数组.java</url>
+          <line>10</line>
+          <properties class="leetcode.乘积最大子数组" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/三数之和.java</url>
+          <line>14</line>
+          <properties class="leetcode.三数之和" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="153" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/每日温度.java</url>
+          <line>10</line>
+          <properties class="leetcode.每日温度" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="155" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/无重复字符串的排列组合.java</url>
+          <line>17</line>
+          <properties class="leetcode.无重复字符串的排列组合" method="permutation">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="161" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/反转链表II.java</url>
+          <line>23</line>
+          <properties class="leetcode.反转链表II" method="reverseBetween">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="162" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/一次编辑.java</url>
+          <line>45</line>
+          <properties class="leetcode.一次编辑" method="oneEditAway">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="166" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/nio/chart/GroupClient.java</url>
+          <line>102</line>
+          <properties class="nio.chart.GroupClient" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="188" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/nio/netty/NIOSocketServer.java</url>
+          <line>25</line>
+          <properties method="initChannel">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="192" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/sign/TestInterrupt.java</url>
+          <line>30</line>
+          <properties class="sign.TestInterrupt" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="194" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/数组中出现次数超过一半的数字.java</url>
+          <line>23</line>
+          <properties class="leetcode.数组中出现次数超过一半的数字" method="majorityElement">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="198" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/字符串的排列.java</url>
+          <line>24</line>
+          <properties class="leetcode.字符串的排列" method="dfs">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="199" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/和为s的连续正数序列.java</url>
+          <line>14</line>
+          <properties class="leetcode.和为s的连续正数序列" method="findContinuousSequence">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="208" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="reversehead" />
+        <watch expression="reversehead" />
+        <watch expression="reverse" />
+        <watch expression="list" />
+        <watch expression="dp[2][2]" />
+        <watch expression="((Node)((Node)((Node)((BinarySearchTree)this).root).left).parent).left" custom="tree.BinarySearchTree.Node,tree.BinarySearchTree" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>isUse[i][j]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>isBalanced(new TreeNode(1))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Math.abs(left-right)&lt;=1</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Math.abs(left-right)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>nums[i]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>var-height[i]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>A[i-1]==B[j-1]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(cur+2)==nums.length</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>nums[cur]==nums[cur+1]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+</project>
