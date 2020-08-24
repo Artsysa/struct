@@ -15,6 +15,7 @@ public class Shift {
         System.out.println(Integer.toBinaryString((1 << 16) - 1 ) + " -> " + ((1 << 16) - 1));
         int sc = ctl & ((1 << 16) - 1);
         System.out.println(Integer.toBinaryString(sc) + " -> " + sc);
-
+        System.out.println(Integer.toBinaryString((1 << 29)));
+        System.out.println(Integer.toBinaryString((-1 << 29)));
     }
 }
